@@ -1,1 +1,1 @@
-# Learn Web Development - JavaScript
+# Learn Web Development
